@@ -5,7 +5,7 @@ url: "http://www.jacoporabolini.com/emerald"
 author:
   name: "Jacopo Rabolini"
   email: "hello@jacoporabolini.com"
-  url: "http://www.jacoporabolini.com"
+  url: "http://alihendavi.github.io/note"
 
 # Build settings
 baseurl: /emerald/ # Change this to your relative path (ex: /blog/), or leave just a /
